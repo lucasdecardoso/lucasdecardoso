@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdecardoso)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdecardoso&theme=highcontrast )](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
