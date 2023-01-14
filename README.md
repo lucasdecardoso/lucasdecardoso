@@ -23,7 +23,6 @@
       <li>Metodologia Agile </li>
     </ul>
   </li>
-  <li>Excel Avançado</li>
 </ul>
 
 
