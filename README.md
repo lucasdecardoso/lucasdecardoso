@@ -1,5 +1,13 @@
-### Olá 👋
+## Olá 👋
 
+### :yellow_circle: Tecnologias
+
+<ul>
+  <li>Backend utilizando .NET Core</li>
+  <li>Front-end com Javascript, HTML e CSS</li>
+  <li>Desenvolvimento Mobile utilizando MAUI</li>
+  <li>Banco de Dados: SQL Server e MySQL</li>
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdecardoso&theme=highcontrast&title_color=ffff00&custom_title=Linguagens%20Mais%20Utilizadas)](https://github.com/anuraghazra/github-readme-stats)
 
