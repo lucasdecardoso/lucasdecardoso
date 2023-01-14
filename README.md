@@ -3,7 +3,7 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Backend utilizando .NET Core</li>
+  <li>Back-end utilizando .NET 6</li>
   <li>Front-end com Javascript, HTML e CSS</li>
   <li>Desenvolvimento Mobile utilizando MAUI</li>
   <li>Banco de Dados: SQL Server e MySQL</li>
