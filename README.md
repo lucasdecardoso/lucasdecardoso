@@ -5,7 +5,7 @@
 
 <ul>
   <li>Back-end utilizando .NET 6</li>
-  <li>Front-end com Javascript, HTML e CSS</li>
+  <li>Front-end com Javascript, HTML, CSS e Angular</li>
   <li>Desenvolvimento Mobile utilizando .NET MAUI</li>
   <li>Banco de Dados: SQL Server e MySQL</li>
 </ul>
