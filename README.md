@@ -4,10 +4,9 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Back-end utilizando .NET 6</li>
-  <li>Front-end com Javascript, HTML, CSS e Angular</li>
-  <li>Desenvolvimento Mobile utilizando .NET MAUI</li>
-  <li>Banco de Dados: SQL Server e MySQL</li>
+  <li>Desenvolvimento Mobile utilizando Java/Kotlin</li>
+  <li>Banco de Dados: SQLite e MySQL</li>
+  <li>Front-end com Javascript, HTML, CSS</li>
 </ul>
 
 #### Linguagens Mais Utilizadas
