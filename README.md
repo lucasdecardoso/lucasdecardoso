@@ -4,9 +4,9 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Desenvolvimento Mobile utilizando Java/Kotlin</li>
-  <li>Banco de Dados: SQLite e MySQL</li>
-  <li>Front-end com Javascript, HTML, CSS</li>
+  <li>Desenvolvimento Mobile utilizando Java</li>
+  <li>Banco de Dados: SQLite</li>
+  <li>Conhecimentos Javascript, HTML, CSS</li>
 </ul>
 
 #### Linguagens Mais Utilizadas
