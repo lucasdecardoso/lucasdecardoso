@@ -6,7 +6,7 @@
 <ul>
   <li>Desenvolvimento Mobile utilizando Java</li>
   <li>Banco de Dados: SQLite</li>
-  <li>Conhecimentos Javascript, HTML, CSS</li>
+  <li>Conhecimentos de Javascript, HTML, CSS</li>
 </ul>
 
 #### Linguagens Mais Utilizadas
