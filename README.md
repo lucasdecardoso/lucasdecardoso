@@ -4,7 +4,7 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Desenvolvimento Mobile utilizando Java</li>
+  <li>Desenvolvimento Mobile utilizando Kotlin</li>
   <li>Banco de Dados: SQLite</li>
   <li>Conhecimentos de Javascript, HTML, CSS</li>
 </ul>
