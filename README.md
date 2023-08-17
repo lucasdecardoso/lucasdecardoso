@@ -11,7 +11,7 @@
 
 #### Linguagens Mais Utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdecardoso&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdecardoso&theme=transparent&hide_title=true)](https://github.com/PencilNavigator/readme-stats-URL/)
 <br>
 <br>
 ### :yellow_circle: Outros Conhecimentos
