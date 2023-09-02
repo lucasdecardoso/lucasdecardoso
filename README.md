@@ -4,7 +4,8 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Desenvolvimento utilizando C# / .NET</li>
+  <li>Desenvolvimento utilizando C# e .NET</li>
+  <li>Multiplataforma utilizando .NET MAUI</li>
   <li>Banco de Dados: SQL Server</li>
 </ul>
 
