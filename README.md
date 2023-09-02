@@ -4,8 +4,8 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Desenvolvimento Mobile utilizando Kotlin</li>
-  <li>Banco de Dados: SQLite</li>
+  <li>Desenvolvimento utilizando C# / .NET</li>
+  <li>Banco de Dados: SQL Server</li>
 </ul>
 
 #### Linguagens Mais Utilizadas
