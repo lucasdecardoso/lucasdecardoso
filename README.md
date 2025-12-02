@@ -4,9 +4,9 @@
 ### :yellow_circle: Tecnologias
 
 <ul>
-  <li>Desenvolvimento utilizando C# e .NET</li>
-  <li>Multiplataforma utilizando .NET MAUI</li>
-  <li>Banco de Dados: SQL Server</li>
+  <li>Desenvolvimento com Python</li>
+  <li>SQL</li>
+  <li>Google Cloud</li>
 </ul>
 
 #### Linguagens Mais Utilizadas
